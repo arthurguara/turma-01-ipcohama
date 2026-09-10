@@ -1,4 +1,4 @@
-<img width="498" height="448" alt="image" src="https://github.com/user-attachments/assets/daa74fe6-fa11-4a3b-bf1a-5ad67ee47f50" /># Project T
+># Project T
 
 ![alt text](image.png)
 
