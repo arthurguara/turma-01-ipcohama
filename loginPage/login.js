@@ -1,5 +1,5 @@
-const CORRECT_USERNAME = "admin";
-const CORRECT_PASSWORD = "admin";
+const CORRECT_USERNAME = "Tuk";
+const CORRECT_PASSWORD = "senha123";
 
 function showToast(message, type) {
   const toast = document.getElementById("toast");
