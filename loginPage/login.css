@@ -49,7 +49,7 @@ body {
   font-size: 1rem;
   color: var(--ink);
   background: var(--field);
-  border: 1px solid #d6cfc4;
+  border: 1px solid #d6b47d;
   border-radius: 6px;
   padding: 0.7rem 0.85rem;
   outline: none;
@@ -126,4 +126,11 @@ body {
 
 .toast.is-error {
   background: #b42318;
+}
+.imagem-canto {
+  position: absolute;   /* Permite posicionar livremente pela tela */
+  bottom: 20px;         /* Distância de 20 pixels da borda inferior */
+  right: 20px;          /* Distância de 20 pixels da borda direita */
+  width: 200px;          /* Define a largura (deixando-a pequena) */
+  height: auto;         /* Mantém a proporção correta da altura */
 }
